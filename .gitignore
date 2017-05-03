@@ -1,0 +1,6 @@
+.idea/
+amazon-fine-foods
+Sentiment.csv
+Tweets.csv
+labeledTrainData.tsv
+bigram.py
